@@ -5,7 +5,7 @@ Aplikasi ini merupakan sebuah aplikasi web yang memungkinkan pengguna untuk meng
 ## Cara Menggunakan Aplikasi
 1. Pastikan bahwa Anda telah menginstal Python dan CherryPy pada komputer Anda.
 2. Download atau clone repositori ini ke komputer Anda.
-3. Buka terminal atau command prompt, arahkan ke direktori tempat Anda menyimpan repositori ini.
+3. Buka terminal atau command prompt, arahkan ke direktori tempat Anda menyimpan repositori ini menggunakan terminal.
 4. Jalankan perintah python app.py pada terminal atau command prompt untuk menjalankan aplikasi.
 5. Buka browser dan akses alamat http://localhost:8080/.
 6. Masukkan teks atau tautan URL yang ingin Anda konversi menjadi QR Code pada form yang disediakan.
